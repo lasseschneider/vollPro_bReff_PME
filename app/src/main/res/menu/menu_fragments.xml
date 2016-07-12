@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+
+        android:id="@+id/action_daten_aktualisieren"
+        android:title="@string/action_daten_aktualisieren"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/action_calender"
+        android:title="@string/action_calender"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/action_tournaments"
+        android:title="@string/action_tournaments"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/action_referees"
+        android:title="@string/action_referees"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/action_main"
+        android:title="@string/action_main"
+        app:showAsAction="never"
+        ></item>
+
+
+
+</menu>

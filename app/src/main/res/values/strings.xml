@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VollPro bReff</string>
+    <string name="title_activity_register">Register</string>
+    <string name="action_daten_aktualisieren">Aktualieiseren</string>
+    <string name="action_calender">Kalender</string>
+    <string name="action_tournaments">Turniere</string>
+    <string name="action_referees">Schiedsrichter</string>
+    <string name="action_main">Main</string>
+    <string name="title_activity_settings">settings</string>
+</resources>
