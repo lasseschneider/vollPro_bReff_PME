@@ -6,6 +6,7 @@ import retrofit2.http.GET;
 
 /**
  * Created by Lasse on 14.07.2016.
+ *
  */
 public interface PersonController {
     //retrofit und Vorlesung Netzwerkommunikation
